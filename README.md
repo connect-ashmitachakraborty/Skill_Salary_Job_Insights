@@ -3,7 +3,7 @@
 📅 Data Year: 2023
 🎓 Role: Student 
 
-👋** Introduction**
+👋*** Introduction***
 As a student passionate about data, I created this project to dive into the data science job market and uncover what skills matter most when it comes to salary and job roles. Inspired by *Luke Barousse’s* fantastic work, I used Excel to analyze real-world job data and build insights into what drives higher pay in the field of data.
 
 🎓 This project was a hands-on learning experience to sharpen my skills in Power Query, PivotTables, DAX, and more—all while discovering valuable career insights!
