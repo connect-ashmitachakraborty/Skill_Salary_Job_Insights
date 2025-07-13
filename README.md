@@ -3,10 +3,15 @@
 📅 Data Year: 2023
 🎓 Role: Student 
 
+
+
 👋*** Introduction***
 As a student passionate about data, I created this project to dive into the data science job market and uncover what skills matter most when it comes to salary and job roles. Inspired by *Luke Barousse’s* fantastic work, I used Excel to analyze real-world job data and build insights into what drives higher pay in the field of data.
 
 🎓 This project was a hands-on learning experience to sharpen my skills in Power Query, PivotTables, DAX, and more—all while discovering valuable career insights!
+
+
+
 
 ❓** Questions I Explored**
 To guide my analysis, I asked:
@@ -19,6 +24,9 @@ To guide my analysis, I asked:
 
 💰 What is the salary impact of the top 10 most common skills?***
 
+
+
+
 🧰** Excel Skills I Used**
 *Skill	Description*
 📊 *Pivot Tables*	Summarized complex data efficiently
@@ -26,6 +34,9 @@ To guide my analysis, I asked:
 💪 *Power Pivot*	Built data models and connected tables
 🔍 *Power Query*	Cleaned and transformed raw data
 🧮 *DAX (Data Analysis Expressions)*	Created custom metrics like median salary
+
+
+
 
 📂 **Dataset Details**
 I used a dataset of **real 2023 data science jobs**—including:
@@ -39,6 +50,10 @@ I used a dataset of **real 2023 data science jobs**—including:
 🛠️ **Required Skills**
 
 🔗* Dataset provided via Luke Barousse’s Excel course*
+
+
+
+
 
 🔍 1️⃣ ***Do More Skills = Higher Pay?***
 Using **Power Query**, I:
@@ -61,6 +76,8 @@ The more relevant skills you master, the higher your potential earning power!
 
 
 
+
+
 🌎 2️⃣ **Salaries by Region**
 Using ***PivotTables and DAX***, I calculated the median salaries across locations, especially focusing on:
 
@@ -68,6 +85,7 @@ Using ***PivotTables and DAX***, I calculated the median salaries across locatio
     MEDIAN(data_jobs_all[salary_year_avg]),
     data_jobs_all[job_country] = "United States"
 )`
+
 
 💡 **Insights**
 💼 Senior Data Engineers and Data Scientists had top salaries globally
@@ -78,6 +96,9 @@ Using ***PivotTables and DAX***, I calculated the median salaries across locatio
 
 🤔 ***So What?***
 Location matters! Knowing regional trends helps you plan where to work or negotiate better.
+
+
+
 
 
 🧠 3️⃣ ***Top Skills in Data Roles***
@@ -93,6 +114,9 @@ With _Power Pivot_, I joined the jobs and skills tables and built a strong data 
 🤔 ***So What?***
 Learning popular tools like Python, SQL, and cloud platforms can help you stay competitive and job-ready.
 
+
+
+
 💸 4️⃣ **Salary vs. Top 10 Skills**
 I used PivotCharts to compare median salary and skill likelihood (% use) for the top 10 skills:
 
@@ -103,6 +127,10 @@ I used PivotCharts to compare median salary and skill likelihood (% use) for the
 🤔 **So What?**
 Prioritize learning high-value skills if you want to land higher-paying roles in the tech space!
 
+
+
+
+
 🧾 ***Conclusion***
 As a student diving into the world of data, this project taught me how to:
 
@@ -111,6 +139,8 @@ Build a clean data model
 Use Excel's most powerful tools: Power Query, PivotTables, DAX
 
 Understand how skills and location affect salary outcomes
+
+
 
 🙏 Huge thanks to ***Luke Barousse*** for his inspiring dataset and guidance throughout this journey!
 
